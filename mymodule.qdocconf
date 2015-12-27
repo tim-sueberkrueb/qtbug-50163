@@ -1,4 +1,4 @@
-project = quey-ui
+project = MyProject
 url = http://qt.io
 description = My Module UI Documentation
 sourcedirs = .
