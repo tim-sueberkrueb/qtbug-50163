@@ -1,0 +1,5 @@
+/*!
+    \qmlmodule MyModule 0.1
+    \title My Module
+*/
+My Module provides minimalistic yet stylish widgets for cross-platform application development

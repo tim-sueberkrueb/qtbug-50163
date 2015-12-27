@@ -1,0 +1,7 @@
+# Install the module
+qmake
+make
+sudo make install
+
+# Run qdoc
+qdoc mymodule.qdocconf -debug

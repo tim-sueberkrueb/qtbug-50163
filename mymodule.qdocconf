@@ -1,0 +1,17 @@
+project = quey-ui
+url = http://qt.io
+description = My Module UI Documentation
+sourcedirs = .
+sourcedirs += ../qml/MyModule/
+
+
+imagedirs = images
+sources.fileextensions = "*.qml *.qdoc *.cpp *.js"
+headers.fileextensions = "*.h"
+
+outputdir = ./html
+outputformats = HTML
+version = 0.1
+syntaxhighlighting = true
+sourceencoding = UTF-8
+outputencoding = UTF-8
